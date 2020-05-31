@@ -1,0 +1,35 @@
+{
+  "name": "dss-responsibility-area",
+  "version": "0.0.0",
+  "description": "Decision support system for determining the area of responsibility",
+  "main": "service.js",
+  "scripts": {
+    "start": "node service.js",
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OldSkyTree/dss-responsibility-area.git"
+  },
+  "keywords": [
+    "DSS"
+  ],
+  "author": "ilyashassen@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OldSkyTree/dss-responsibility-area/issues"
+  },
+  "homepage": "https://github.com/OldSkyTree/dss-responsibility-area#readme",
+  "dependencies": {
+    "async-middleware": "1.2.1",
+    "boom": "7.3.0",
+    "debug": "4.1.1",
+    "dotenv": "8.2.0",
+    "express": "4.17.1",
+    "got": "11.3.0",
+    "js-levenshtein": "1.1.6",
+    "lodash": "4.17.15",
+    "mongodb": "3.5.8",
+    "morgan": "1.10.0"
+  }
+}

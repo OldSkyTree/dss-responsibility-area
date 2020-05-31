@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+DEBUG=prosperity:*,webhook-handler:*,sandbox-ci:*,merge-queue:*,serp:*,si:ci:*,arcanum:*
+
+NODE_TLS_REJECT_UNAUTHORIZED=0
+
+GHE_HOST=github.yandex-team.ru
+
+GH_APP__DELETE_MERGED__ID=7
