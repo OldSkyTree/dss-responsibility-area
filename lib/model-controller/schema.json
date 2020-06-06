@@ -1,0 +1,26 @@
+{
+    "Тип обращения": {
+        "name": "request-type",
+        "type": "String"
+    },
+    "Инструмент": {
+        "name": "instrument",
+        "type": "String"
+    },
+    "Место воспроизведения": {
+        "name": "playback-location",
+        "type": "Array"
+    },
+    "Ссылка на пулл-реквест": {
+        "name": "pull-request-link",
+        "type": "String"
+    },
+    "Заголовок обращения": {
+        "name": "title",
+        "type": "String"
+    },
+    "Текст обращения": {
+        "name": "text",
+        "type": "String"
+    }
+}

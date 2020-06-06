@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/OldSkyTree/dss-responsibility-area/issues"
   },
-  "homepage": "https://github.com/OldSkyTree/dss-responsibility-area#readme"
+  "homepage": "https://github.com/OldSkyTree/dss-responsibility-area#readme",
+  "dependencies": {
+    "async-middleware": "1.2.1",
+    "boom": "7.3.0",
+    "debug": "4.1.1",
+    "dotenv": "8.2.0",
+    "js-levenshtein": "1.1.6",
+    "lodash": "4.17.15",
+    "ya-tracker-api-client": "1.27.2"
+  }
 }
